@@ -7,6 +7,8 @@ private String name;
 private String age;
 private String gender1;
 private String genderkamal;
+    private String nandana;
+    private String adii;
 
     public int getNumer() {
         return numer;
