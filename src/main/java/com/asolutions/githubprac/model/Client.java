@@ -5,7 +5,8 @@ public class Client {
 private int numer;
 private String name;
 private String age;
-private String gender;
+private String gender1;
+private String genderkamal;
 
     public int getNumer() {
         return numer;
