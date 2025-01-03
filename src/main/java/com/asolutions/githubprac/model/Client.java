@@ -9,6 +9,7 @@ private String gender1;
 private String genderkamal;
     private String nandana;
     private String adii;
+    private int age1;
 
     public int getNumer() {
         return numer;
